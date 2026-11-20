@@ -1,0 +1,251 @@
+{
+  "main": {
+    "id": "3672b48b8dd7e7fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb75e87a892ad828",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "86651c5892b5e3f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - COURSES/SQL Crash Course ( SCC ).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL Crash Course ( SCC )"
+            }
+          },
+          {
+            "id": "319476546da89223",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "07 - Leetcode/197 sql - raising temperature.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "197 sql - raising temperature"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0229ee51e67cdff5",
+    "type": "split",
+    "children": [
+      {
+        "id": "d0773fd18b1d6056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "48a95800516c23af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1c6b556f45a6547e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "95682b4483e14d7d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bc7774234197c433",
+    "type": "split",
+    "children": [
+      {
+        "id": "f490f2e12e02bbb6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5378ec591b5e9033",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "2c1eeaaf1d44ad40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "42bce98e2c9d23e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "remote-vault/Virtualisation.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Virtualisation"
+            }
+          },
+          {
+            "id": "db2c20f67ea22298",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "675414080b51cc57",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "remote-vault/Virtualisation.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Virtualisation"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "switcher:Open quick switcher": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "86651c5892b5e3f5",
+  "lastOpenFiles": [
+    "07 - Leetcode/197 sql - raising temperature.md",
+    "01 - COURSES/SQL - Exercices/EX - 101.md",
+    "01 - COURSES/SQL Crash Course ( SCC ).md",
+    "Pasted image 20261119210843.png",
+    "Pasted image 20261119194309.png",
+    "Pasted image 20261119185159.png",
+    "Pasted image 20261119185125.png",
+    "Pasted image 20261119184926.png",
+    "13 - TP/TP3 - Base de donnees.md",
+    "01 - COURSES/SQL - Exercices",
+    "Color pallet/Colors.md",
+    "Pasted image 20261117210828.png",
+    "Pasted image 20261117210812.png",
+    "Pasted image 20261117210752.png",
+    "Pasted image 20261117210344.png",
+    "Pasted image 20261117210121.png",
+    "01 - COURSES/Manwa setup with claude code.md",
+    "06 - DAILY/O1 - Python OOP.md",
+    "Untitled.base",
+    "Untitled 1.base",
+    "13 - TP/TP1 - Base de donnee.md",
+    "13 - TP/TP2 - Base de donnee.md",
+    "01 - COURSES/Schema manipulation.md",
+    "().md",
+    "01 - COURSES/SCHEMA Manipulation.md",
+    "07 - Leetcode/181. Employees Earning More Than Their Manager.md",
+    "02 - CONCEPTS/02. Spec Driven Development ( SDD ).md",
+    "13 - TP/OLD/TP 1 ~ Regression Lineaire.md",
+    "13 - TP/OLD",
+    "02 - CONCEPTS/01. SOFTWARE FACTORY.md",
+    "01 - PROJECTS/Bandit-Game 101.md",
+    "Excalidraw/Drawing 2026-03-05 01.06.50.excalidraw.md",
+    "04 - PERMANENT/01 - Semester 6/Data Mining.md",
+    "04 - PERMANENT/01 - Semester 6/Securite des donnee.md",
+    "04 - PERMANENT/01 - Semester 6/Machine Learning & Deep Learning.md",
+    "04 - PERMANENT/01 - Semester 6/La visualisation des donnees.md",
+    "08 - Old content/Serie exercice C.md",
+    "08 - Old content/Redis.md",
+    "08 - Dev tools/New python tools that i need to master.md",
+    "08 - Old content/docker hadoop.md",
+    "01 - COURSES",
+    "00 - MAPS OF CONTENT/Untitled",
+    "Excalidraw",
+    "Drawings",
+    "06 - DAILY/02 - semester 4",
+    "06 - DAILY/01 - Semestre 3/Untitled",
+    "Untitled.canvas",
+    "04 - Color pallet/Untitled.canvas"
+  ]
+}

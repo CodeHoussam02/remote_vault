@@ -1,0 +1,15 @@
+{
+  "enabledCssSnippets": [
+    "Notebook Backgrounds",
+    "theme",
+    "Colored Sidebar Items",
+    "Daily Note Themes",
+    "Minecraft"
+  ],
+  "interfaceFontFamily": "FiraCode Nerd Font,JetBrainsMono Nerd Font",
+  "textFontFamily": "JetBrainsMonoNL Nerd Font Mono",
+  "theme": "obsidian",
+  "baseFontSize": 16,
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "showRibbon": true
+}

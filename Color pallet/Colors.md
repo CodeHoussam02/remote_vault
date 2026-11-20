@@ -1,0 +1,27 @@
+
+- <font color="#570000">Rosewood  : </font> `#570000`
+- <font color="#B10F2E">Madder  : </font> `#B10F2E`
+- <font color="#FFF7AE">Vanilla   : </font> `#FFF7AE`
+- <font color="#FFE1C6">Light Orange  : </font> `#FFE1C6`
+- <font color="#FFC6D9">Fairy Tale  : </font> `#FFC6D9`
+- <font color="#F08080">Light coral : </font>`#F08080`
+- <font color="#48284A">Violet JTC  : </font> `#48284A`
+- <font color="#197278">Caribbean Current  : </font> `#197278`
+- <font color="#F8FFE5">Light yellow  : </font> `#F8FFE5`
+- <font color="#022F40">Prussian blue  : </font> `#022F40`
+- <font color="#046E8F">Cerulean  : </font> `#046E8F`
+- <font color="#7CAE7A">Aspergus : </font> `#7CAE7A`
+- <font color="#ACCBE1">Columbia blue : </font> `#ACCBE1`
+- <font color="#7C98B3">Air superiority blue : </font>`#7C98B3`
+- <font color="#BAFF29">Lime : </font>`#BAFF29`
+- <font color="#affc41">Green yellow : </font>`#affc41`
+- <font color="#F4D35E">Napies yellow : </font>`#F4D35E`
+- <font color="#1C5D99">Lapis Lazuili : </font>`#1C5D99`
+- <font color="#575D90">Ultra violet : </font>`#575D90`
+- <font color="#F61067">Razzmatazz : </font>`#F61067`
+- <font color="#256EFF">Brandeis blue : </font>`#256EFF`
+- <font color="#3FFC6D9">Light green : </font>`#3FFC6D9`
+- <font color="#612940">Tyrian purple : </font>`#612940`
+- <font color="#65B891">Mint : </font>`#65B891`
+- <font color="#fb8500">UT - Orange : </font>`#fb8500`
+- <font color="#ee4545">Ajax Red :</font> `#ee4545`
